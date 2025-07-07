@@ -18,11 +18,7 @@ namespace Scripts
             "android.permission.CAMERA",
             "horizonos.permission.HEADSET_CAMERA"
         };
-
-        /// <summary>
-        /// Requests all required permissions if needed, then waits until the user responds.
-        /// Calls onComplete(true) only if every permission was granted.
-        /// </summary>
+        
         public IEnumerator AskForPermissions(Action<bool> onComplete = null)
         {
             if (ArePermissionsGranted())

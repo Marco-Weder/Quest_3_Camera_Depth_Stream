@@ -15,6 +15,9 @@ Assets/Resources/OculusPlatformSettings.asset.meta
 # Visual Studio cache directory
 .vs/
 
+# Server
+/Server/.venv/
+
 # JetBrains Rider
 .idea/
 Assets/Plugins/Editor.meta

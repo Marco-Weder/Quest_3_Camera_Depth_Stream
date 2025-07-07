@@ -17,7 +17,7 @@ public class NetworkStream : MonoBehaviour
     private Texture2D webcamTexture2D;
     private UdpClient udpClient;
 
-    public string pcIP = "127.0.0.1";  // ADB-reverse default
+    public string pcIP = "127.0.0.1";  // for adb reverse
     public int handshakePort = 8888;
     public int serverPort = 9999;
 

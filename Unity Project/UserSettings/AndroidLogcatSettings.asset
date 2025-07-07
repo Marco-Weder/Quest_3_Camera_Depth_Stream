@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "2G0YC5ZG6803NW",
     "m_SelectedProcess": {
-        "deviceId": "2G0YC5ZG6803NW",
-        "name": "com.ThesisMW.BachelorThesisMW",
-        "processId": 25554,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
